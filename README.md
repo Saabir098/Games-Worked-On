@@ -28,6 +28,7 @@ Here are some of the games I’ve worked on, available on my GitHub Releases:
 - 🔗 [Magic Pencil Sort v1.1](https://github.com/Saabir098/Games-Worked-On/releases/tag/MagicPencilSortv1.1)
 - 🔗 [Idle Wizardry Hotel v1.0](https://github.com/Saabir098/Games-Worked-On/releases/tag/IdleWizardryHotel-v1.0)
 - 🔗 [Hexa Stack 3D v1.0](https://github.com/Saabir098/Games-Worked-On/releases/tag/HexaStack3Dv1.0)
+- 🔗 [Giga Super Market Simulator v1.11](https://github.com/Saabir098/Games-Worked-On/releases/tag/GigaSuperMarketSimulator-v1.11)
 
 ---
 
